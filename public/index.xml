@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://raze.mx/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Feb 2021 14:19:06 -0600</lastBuildDate><atom:link href="https://raze.mx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo &#43; Cloudfront</title>
+      <link>https://raze.mx/post/hugo-cloudfront/</link>
+      <pubDate>Tue, 02 Feb 2021 14:19:06 -0600</pubDate>
+      
+      <guid>https://raze.mx/post/hugo-cloudfront/</guid>
+      <description>As you can read on my previous blog post, I&amp;rsquo;ve choosen a set of AWS technologies to back this blog, however here&amp;rsquo;s the full post on how to set up your own Hugo blog on AWS using CloudFront.
+Create an example Hugo website You can use this Quickstart to set up your example Hugo website. However, here&amp;rsquo;s the TL;RD:
+hugo new site quickstart cd quickstart git init git submodule add https://github.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://raze.mx/about/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://raze.mx/about/</guid>
+      <description>About Me My name is Jorge A. I come from a web software development background, I love new technology trends like Cloud Computing Blockchain and Big Data, I&amp;rsquo;m also interested on Agile and DevOps culture. Some other interests I have are arts, specifically potography, painting, cinema and theatre. I live in Mexico City, so if you&amp;rsquo;re around you can always ping me.
+Send me a crypto:
+ BTC: 3PfAwPHuY8wM8LJ57NLcN3gNpX5TwzSa8o ETH: 0x71fceeededc7ea228b1375fdee2b7f3fe68bde30  About Hugo Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://raze.mx/post/hello/</link>
+      <pubDate>Fri, 29 Jan 2021 16:39:29 -0600</pubDate>
+      
+      <guid>https://raze.mx/post/hello/</guid>
+      <description>Hello internet 😄 it&amp;rsquo;s being a long time since I stopped blogging, however, as I&amp;rsquo;ve always said, writting is more a necesity than a luxury.
+Today I&amp;rsquo;m gonna talk about the tech stack I&amp;rsquo;m using for blogging, In the past I&amp;rsquo;ve used Ghost for my previous blog, and a long time ago I also used Joomla!, those are great tools and a lot of technical writters do use Ghost for writting articles, or blogging.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://raze.mx/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raze.mx/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://raze.mx/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raze.mx/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

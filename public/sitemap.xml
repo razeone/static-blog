@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://raze.mx/</loc>
+    <lastmod>2021-02-02T14:19:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/categories/</loc>
+    <lastmod>2021-02-02T14:19:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/tags/cloudfront/</loc>
+    <lastmod>2021-02-02T14:19:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/categories/cloudfront/</loc>
+    <lastmod>2021-02-02T14:19:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/tags/hugo/</loc>
+    <lastmod>2021-02-02T14:19:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/categories/hugo/</loc>
+    <lastmod>2021-02-02T14:19:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/post/hugo-cloudfront/</loc>
+    <lastmod>2021-02-02T14:19:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/tags/lambdaedge/</loc>
+    <lastmod>2021-02-02T14:19:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/post/</loc>
+    <lastmod>2021-02-02T14:19:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/tags/ssl/</loc>
+    <lastmod>2021-02-02T14:19:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/categories/static/</loc>
+    <lastmod>2021-02-02T14:19:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/tags/</loc>
+    <lastmod>2021-02-02T14:19:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/about/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/categories/first/</loc>
+    <lastmod>2021-01-29T16:39:29-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/categories/general/</loc>
+    <lastmod>2021-01-29T16:39:29-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/post/hello/</loc>
+    <lastmod>2021-01-29T16:39:29-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/tags/markdown/</loc>
+    <lastmod>2021-01-29T16:39:29-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/tags/static-website/</loc>
+    <lastmod>2021-01-29T16:39:29-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/contact/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raze.mx/tags/index/</loc>
+  </url>
+  
+</urlset>

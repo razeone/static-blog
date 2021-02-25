@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://raze.mx/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Feb 2021 14:19:06 -0600</lastBuildDate><atom:link href="https://raze.mx/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cloudfront</title>
+      <link>https://raze.mx/categories/cloudfront/</link>
+      <pubDate>Tue, 02 Feb 2021 14:19:06 -0600</pubDate>
+      
+      <guid>https://raze.mx/categories/cloudfront/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://raze.mx/categories/hugo/</link>
+      <pubDate>Tue, 02 Feb 2021 14:19:06 -0600</pubDate>
+      
+      <guid>https://raze.mx/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static</title>
+      <link>https://raze.mx/categories/static/</link>
+      <pubDate>Tue, 02 Feb 2021 14:19:06 -0600</pubDate>
+      
+      <guid>https://raze.mx/categories/static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://raze.mx/categories/first/</link>
+      <pubDate>Fri, 29 Jan 2021 16:39:29 -0600</pubDate>
+      
+      <guid>https://raze.mx/categories/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>general</title>
+      <link>https://raze.mx/categories/general/</link>
+      <pubDate>Fri, 29 Jan 2021 16:39:29 -0600</pubDate>
+      
+      <guid>https://raze.mx/categories/general/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
