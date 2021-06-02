@@ -5,14 +5,60 @@
     <link>https://raze.mx/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Feb 2021 14:19:06 -0600</lastBuildDate><atom:link href="https://raze.mx/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 May 2021 14:14:34 -0500</lastBuildDate><atom:link href="https://raze.mx/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>agile</title>
+      <link>https://raze.mx/tags/agile/</link>
+      <pubDate>Mon, 31 May 2021 14:14:34 -0500</pubDate>
+      
+      <guid>https://raze.mx/tags/agile/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>https://raze.mx/tags/cloud/</link>
+      <pubDate>Mon, 31 May 2021 14:14:34 -0500</pubDate>
+      
+      <guid>https://raze.mx/tags/cloud/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>devops</title>
+      <link>https://raze.mx/tags/devops/</link>
+      <pubDate>Mon, 31 May 2021 14:14:34 -0500</pubDate>
+      
+      <guid>https://raze.mx/tags/devops/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>enterprise</title>
+      <link>https://raze.mx/tags/enterprise/</link>
+      <pubDate>Mon, 31 May 2021 14:14:34 -0500</pubDate>
+      
+      <guid>https://raze.mx/tags/enterprise/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>cloudfront</title>
       <link>https://raze.mx/tags/cloudfront/</link>
       <pubDate>Tue, 02 Feb 2021 14:19:06 -0600</pubDate>
       
       <guid>https://raze.mx/tags/cloudfront/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -21,7 +67,9 @@
       <pubDate>Tue, 02 Feb 2021 14:19:06 -0600</pubDate>
       
       <guid>https://raze.mx/tags/hugo/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -30,7 +78,9 @@
       <pubDate>Tue, 02 Feb 2021 14:19:06 -0600</pubDate>
       
       <guid>https://raze.mx/tags/lambdaedge/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -39,7 +89,9 @@
       <pubDate>Tue, 02 Feb 2021 14:19:06 -0600</pubDate>
       
       <guid>https://raze.mx/tags/ssl/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -48,7 +100,9 @@
       <pubDate>Fri, 29 Jan 2021 16:39:29 -0600</pubDate>
       
       <guid>https://raze.mx/tags/markdown/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -57,7 +111,9 @@
       <pubDate>Fri, 29 Jan 2021 16:39:29 -0600</pubDate>
       
       <guid>https://raze.mx/tags/static-website/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
     <item>
@@ -66,7 +122,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://raze.mx/tags/index/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
   </channel>

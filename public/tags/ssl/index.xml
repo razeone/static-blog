@@ -12,9 +12,11 @@
       <pubDate>Tue, 02 Feb 2021 14:19:06 -0600</pubDate>
       
       <guid>https://raze.mx/post/hugo-cloudfront/</guid>
-      <description>As you can read on my previous blog post, I&amp;rsquo;ve choosen a set of AWS technologies to back this blog, however here&amp;rsquo;s the full post on how to set up your own Hugo blog on AWS using CloudFront.
+      
+        <description>As you can read on my previous blog post, I&amp;rsquo;ve choosen a set of AWS technologies to back this blog, however here&amp;rsquo;s the full post on how to set up your own Hugo blog on AWS using CloudFront.
 Create an example Hugo website You can use this Quickstart to set up your example Hugo website. However, here&amp;rsquo;s the TL;RD:
 hugo new site quickstart cd quickstart git init git submodule add https://github.</description>
+      
     </item>
     
   </channel>

@@ -5,16 +5,30 @@
     <link>https://raze.mx/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Feb 2021 14:19:06 -0600</lastBuildDate><atom:link href="https://raze.mx/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 May 2021 14:14:34 -0500</lastBuildDate><atom:link href="https://raze.mx/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud and Culture or Why enterprises fail on Cloud adoption?</title>
+      <link>https://raze.mx/post/cloud-and-culture/</link>
+      <pubDate>Mon, 31 May 2021 14:14:34 -0500</pubDate>
+      
+      <guid>https://raze.mx/post/cloud-and-culture/</guid>
+      
+        <description>Hi everyone, I hope you&amp;rsquo;re having a great time during this pandemic or at least staying healthy and safe enjoying your 127.0.0.1.
+In my case I&amp;rsquo;ve been studying, dealing with anxiety, changing routines for all that stuff that we considered as normal life before this lockdown. Also this pandemic came with the opportunity to change my current job, I got the opportunity to land a technical manager offer at a big insurance enterprise which later I declined in favor of sticking to my technical career.</description>
+      
+    </item>
+    
     <item>
       <title>Hugo &#43; Cloudfront</title>
       <link>https://raze.mx/post/hugo-cloudfront/</link>
       <pubDate>Tue, 02 Feb 2021 14:19:06 -0600</pubDate>
       
       <guid>https://raze.mx/post/hugo-cloudfront/</guid>
-      <description>As you can read on my previous blog post, I&amp;rsquo;ve choosen a set of AWS technologies to back this blog, however here&amp;rsquo;s the full post on how to set up your own Hugo blog on AWS using CloudFront.
+      
+        <description>As you can read on my previous blog post, I&amp;rsquo;ve choosen a set of AWS technologies to back this blog, however here&amp;rsquo;s the full post on how to set up your own Hugo blog on AWS using CloudFront.
 Create an example Hugo website You can use this Quickstart to set up your example Hugo website. However, here&amp;rsquo;s the TL;RD:
 hugo new site quickstart cd quickstart git init git submodule add https://github.</description>
+      
     </item>
     
     <item>
@@ -23,8 +37,10 @@ hugo new site quickstart cd quickstart git init git submodule add https://github
       <pubDate>Fri, 29 Jan 2021 16:39:29 -0600</pubDate>
       
       <guid>https://raze.mx/post/hello/</guid>
-      <description>Hello internet 😄 it&amp;rsquo;s being a long time since I stopped blogging, however, as I&amp;rsquo;ve always said, writting is more a necesity than a luxury.
+      
+        <description>Hello internet 😄 it&amp;rsquo;s being a long time since I stopped blogging, however, as I&amp;rsquo;ve always said, writting is more a necesity than a luxury.
 Today I&amp;rsquo;m gonna talk about the tech stack I&amp;rsquo;m using for blogging, In the past I&amp;rsquo;ve used Ghost for my previous blog, and a long time ago I also used Joomla!, those are great tools and a lot of technical writters do use Ghost for writting articles, or blogging.</description>
+      
     </item>
     
   </channel>

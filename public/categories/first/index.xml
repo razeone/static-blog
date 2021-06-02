@@ -12,8 +12,10 @@
       <pubDate>Fri, 29 Jan 2021 16:39:29 -0600</pubDate>
       
       <guid>https://raze.mx/post/hello/</guid>
-      <description>Hello internet 😄 it&amp;rsquo;s being a long time since I stopped blogging, however, as I&amp;rsquo;ve always said, writting is more a necesity than a luxury.
+      
+        <description>Hello internet 😄 it&amp;rsquo;s being a long time since I stopped blogging, however, as I&amp;rsquo;ve always said, writting is more a necesity than a luxury.
 Today I&amp;rsquo;m gonna talk about the tech stack I&amp;rsquo;m using for blogging, In the past I&amp;rsquo;ve used Ghost for my previous blog, and a long time ago I also used Joomla!, those are great tools and a lot of technical writters do use Ghost for writting articles, or blogging.</description>
+      
     </item>
     
   </channel>
