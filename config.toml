@@ -4,10 +4,10 @@ baseURL = "https://raze.mx/"
 enableRobotsTXT = true
 
 # Enable Disqus
-#disqusShortname = ""
+disqusShortname = "razes-blog"
 
 # Google Analytics
-googleAnalytics = "UA-160623950-1"
+# googleAnalytics = "UA-160623950-1"
 
 # Syntax highlighting
 pygmentsUseClasses = true
