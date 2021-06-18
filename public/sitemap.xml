@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://raze.mx/</loc>
-    <lastmod>2021-05-31T14:14:34-05:00</lastmod>
+    <lastmod>2021-06-08T12:11:08-05:00</lastmod>
+  </url><url>
+    <loc>https://raze.mx/post/dark-patterns/</loc>
+    <lastmod>2021-06-08T12:11:08-05:00</lastmod>
+  </url><url>
+    <loc>https://raze.mx/post/</loc>
+    <lastmod>2021-06-08T12:11:08-05:00</lastmod>
   </url><url>
     <loc>https://raze.mx/tags/agile/</loc>
     <lastmod>2021-05-31T14:14:34-05:00</lastmod>
@@ -27,9 +33,6 @@
     <lastmod>2021-05-31T14:14:34-05:00</lastmod>
   </url><url>
     <loc>https://raze.mx/tags/enterprise/</loc>
-    <lastmod>2021-05-31T14:14:34-05:00</lastmod>
-  </url><url>
-    <loc>https://raze.mx/post/</loc>
     <lastmod>2021-05-31T14:14:34-05:00</lastmod>
   </url><url>
     <loc>https://raze.mx/tags/</loc>
