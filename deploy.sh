@@ -17,4 +17,5 @@ export DEPLOY_FOLDER="./public/"
     aws s3 sync $DEPLOY_FOLDER $S3_BUCKET_URI
 } || { echo "ERROR: Sync to S3 failed, check configuration"; exit 10; }
 
+# Invalidate cache
 [ -z "$CF_DISTRIBUTION_ID" ] && echo "INFO: CF_DISTRIBUTION_ID is NULL, skipping." || { echo "INFO: CF distribution detected, creating invalidation..."; aws cloudfront create-invalidation --distribution-id $CF_DISTRIBUTION_ID --paths "/*"; }
