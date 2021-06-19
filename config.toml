@@ -17,7 +17,7 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "Jorge Raze"
 author = "Jorge Raze"
-description = "Software Consultant, Cloud Architect and DevOps Practitioner. This blog only includes my personal opinions and not of my employers.""
+description = "Software Consultant, Cloud Architect and DevOps Practitioner. This blog only includes my personal opinions and or advice, it does not represent the one of my actual employers."
 profilePicture = "images/profile.png"
 #copyright = "2021"
 keywords = "tech, cloud, data"
