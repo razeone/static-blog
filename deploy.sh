@@ -1,7 +1,7 @@
 #!/bin/bash
 
-export S3_BUCKET_URI="s3://raze-website"
-export CF_DISTRIBUTION_ID="ES52SN9381PAQ"
+export S3_BUCKET_URI=""
+export CF_DISTRIBUTION_ID=""
 export DEPLOY_FOLDER="./public/"
 
 # Check bucket
