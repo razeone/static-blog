@@ -1,12 +1,11 @@
 #!/bin/bash
 
-export S3_BUCKET_URI=""
-export CF_DISTRIBUTION_ID=""
+export S3_BUCKET_URI="s3://raze-website"
+export CF_DISTRIBUTION_ID="ES52SN9381PAQ"
 export DEPLOY_FOLDER="./public/"
 
-# Checks
+# Check bucket
 [ -z "$S3_BUCKET_URI" ] && { echo "ERROR: S3_BUCKET_URI is NULL"; exit 10; } 
-[ -z "$CF_DISTRIBUTION_ID" ] && echo "WARNING: CF_DISTRIBUTION_ID is NULL" || echo "INFO: CF distribution detected"
 
 # Build
 {
@@ -17,3 +16,5 @@ export DEPLOY_FOLDER="./public/"
 {
     aws s3 sync $DEPLOY_FOLDER $S3_BUCKET_URI
 } || { echo "ERROR: Sync to S3 failed, check configuration"; exit 10; }
+
+[ -z "$CF_DISTRIBUTION_ID" ] && echo "INFO: CF_DISTRIBUTION_ID is NULL, skipping." || { echo "INFO: CF distribution detected, creating invalidation..."; aws cloudfront create-invalidation --distribution-id $CF_DISTRIBUTION_ID --paths "/*"; }
