@@ -1,7 +1,7 @@
 ---
 title: "Cloud and Culture or Why enterprises fail on Cloud adoption?"
 date: 2021-05-31T14:14:34-05:00
-draft: true
+draft: false
 thumbnail: "images/anti-type-a.png"
 tags: ["agile", "devops", "enterprise", "cloud"]
 categories: ["devops", "cloud"]

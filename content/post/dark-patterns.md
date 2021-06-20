@@ -2,7 +2,9 @@
 title: "Dark Patterns that I hate the most"
 date: 2021-06-08T12:11:08-05:00
 thumbnail: "images/dp.png"
-draft: true
+draft: false
+tags: ["dark pattenrs", "ux", "rant", "youtube"]
+categories: ["rant", "opinion"]
 ---
 
 [Image source](https://techcrunch.com/2018/07/01/wtf-is-dark-pattern-design/)
