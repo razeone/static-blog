@@ -11,3 +11,10 @@ git submodule init
 git submodule update
 hugo serve -D
 ```
+
+### Docker Quickstart
+
+```
+docker build . -t raze-website:<daVersion>
+docker run -p 8080:80 localhost/raze-website:<daVersion>
+```
