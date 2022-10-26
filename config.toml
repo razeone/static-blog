@@ -3,12 +3,6 @@ enableEmoji = true
 baseURL = "https://raze.mx/"
 enableRobotsTXT = true
 
-# Enable Disqus
-disqusShortname = "razes-blog"
-
-# Google Analytics
-# googleAnalytics = "UA-160623950-1"
-
 # Syntax highlighting
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -19,7 +13,7 @@ title = "Jorge Raze"
 author = "Jorge Raze"
 description = "Software Consultant, Cloud Architect and DevOps Practitioner. This blog only includes my personal opinions and or advice, it does not represent the one of my actual employers."
 profilePicture = "images/profile.png"
-#copyright = "2021"
+copyright = "Jorge Raze 2022"
 keywords = "tech, cloud, data"
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -29,8 +23,6 @@ customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
-# Form Spree Contact Form
-contactFormAction = "https://formspree.io/f/mwkwzokv"
 # Google Site Verify
 googleSiteVerify = "EeaO-Mo1Xr4Ps8bEAit7Skg30LW1x4UEUUZy7U7KdvY"
 # indexDateFormat = "Mon, Jan 2, 2006"
@@ -90,9 +82,3 @@ url = "https://www.flickr.com/photos/razeone/"
   weight = 300
   identifier = "about"
   url = "/about/"
-
-  [[menu.main]]
-  name = "Contact"
-  weight = 400
-  identifier = "contact"
-  url = "/contact/"
