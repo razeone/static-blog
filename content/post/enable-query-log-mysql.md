@@ -1,6 +1,7 @@
 ---
 title: "Enable Query Log Mysql"
 date: 2022-11-23T20:15:54-06:00
+thumbnail: "images/mysql.jpg"
 Description: "How to enable query log in mysql"
 Tags: ["mysql", "query log"]
 Categories: ["mysql"]
@@ -14,7 +15,7 @@ SQL and specially if you're having trouble understanding behaviours on your data
 
 There are a couple of options when you want to enable query log on your database, the first one is to use the following configuration:
 
-For MySQL 5.1.28 and older, edit the `/etc/my.cnf`file and in the `[mysqld]` section add the following line:
+For MySQL 5.1.28 and older, edit the `/etc/my.cnf` file and in the `[mysqld]` section add the following line:
 
 ```bash
 log_output = /path/to/file.log
