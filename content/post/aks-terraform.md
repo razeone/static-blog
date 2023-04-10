@@ -296,3 +296,9 @@ terraform destroy
 
 In this article, we have seen how to create an AKS cluster using Terraform. We have also seen how to create a log analytics workspace and a log analytics solution to monitor the cluster. We have also seen how to create a service principal to be used by the cluster. We have also seen how to create a resource group to host the cluster and the log analytics workspace. We have also seen how to create a random name for the resource group and the log analytics workspace. We have also seen how to create a random suffix for the log analytics workspace name. We have also seen how to create a random pet name for the resource group.
 
+## Code
+
+Please find here the URL to the GitHub repository with the code for this article: 
+
+[Repository](https://github.com/razeone/tf-aks-cluster)
+
