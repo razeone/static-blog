@@ -33,7 +33,7 @@ jobs:
     - name: Build Hugo site
       run: |
         echo "Building Hugo site..."
-        hugo --minify --verbose
+        hugo --minify
         echo "Build completed. Files in public directory:"
         ls -la public/
 
