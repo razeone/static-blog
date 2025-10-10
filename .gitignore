@@ -1,3 +1,77 @@
+# Hugo build artifacts
 *.log
 public/
 .hugo_build.lock
+resources/_gen/
+
+# Deployment scripts and configuration
+deploy.sh
+deploy*.sh
+*.deploy
+deployment.yml
+deployment.yaml
+scripts/
+DEPLOYMENT.md
+GITHUB_ACTIONS_SETUP.md
+
+# Security and sensitive data
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+credentials.json
+config.json
+secrets.yml
+secrets.yaml
+
+# AWS credentials and configuration
+.aws/
+aws-credentials.txt
+*.aws
+.boto
+boto.cfg
+
+# Development and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Node.js (if using any JS tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files and backups
+*.tmp
+*.temp
+*.bak
+*.backup
+*.orig
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# GitHub Actions artifacts
+github-actions-*.json
+deployment-logs.txt
+
+# Local development
+*.local
+local-*
