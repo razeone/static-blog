@@ -8,12 +8,11 @@ author = "Jorge Raze"
 
 ### About Me
 
-My name is Jorge A. I come from a web software development background, I love new technology trends like Cloud Computing Blockchain and Big Data, I'm also interested on Agile and DevOps culture. Some other interests I have are arts, specifically potography, painting, cinema and theatre. I live in Mexico City, so if you're around you can always [ping me](/contact).
+My name is Jorge A. I come from a web software development background, I love new technology trends like Cloud Computing and Big Data, I'm also interested in Agile and DevOps culture.
 
-Send me a crypto:
+Beyond technology, I'm deeply passionate about the arts. I work as an independent actor and independent filmmaker, exploring storytelling through both performance and direction. My other artistic interests include photography, painting, cinema and theatre.
 
-* [BTC](https://bitcoin.org/): 3PfAwPHuY8wM8LJ57NLcN3gNpX5TwzSa8o
-* [ETH](https://ethereum.org): 0x71fceeededc7ea228b1375fdee2b7f3fe68bde30
+I live in Mexico City, so if you're around you can always [ping me](/contact).
 
 ### About Hugo
 
